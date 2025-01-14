@@ -18,7 +18,7 @@ Used to create a new folder
 git add -> "Add all files changed to being pushed" 
 git add -A 
 git add {specific files}
-Used to specifiy which files are being added to be pushed
+Used to specify which files are being added to be pushed
 
 git commit -> "Commit a message name for changes made"
 git commit -m "{Changes made}" 
